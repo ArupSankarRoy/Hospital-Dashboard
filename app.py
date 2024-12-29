@@ -92,7 +92,7 @@ display_rows()
 if st.sidebar.button("Add More Rows"):
     add_row()
 
-# ______________________________+________________Main app________________________________________________________________
+# ______________________________________________Main app___________________________________________________________
 
 st.markdown("<h1><span style='color: blue;'>DIPLOMAT NURSING HOME</span></h1>", unsafe_allow_html=True)
 st.markdown("### Predictive Analysis of Monthly Income and Target")
